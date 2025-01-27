@@ -1,7 +1,0 @@
-D:\Important Data\Programming Projects C#\BarcLib\bin\Debug\BarcLib.exe.config
-D:\Important Data\Programming Projects C#\BarcLib\bin\Debug\BarcLib.exe
-D:\Important Data\Programming Projects C#\BarcLib\bin\Debug\BarcLib.pdb
-D:\Important Data\Programming Projects C#\BarcLib\obj\Debug\BarcLib.csproj.AssemblyReference.cache
-D:\Important Data\Programming Projects C#\BarcLib\obj\Debug\BarcLib.csproj.CoreCompileInputs.cache
-D:\Important Data\Programming Projects C#\BarcLib\obj\Debug\BarcLib.exe
-D:\Important Data\Programming Projects C#\BarcLib\obj\Debug\BarcLib.pdb
